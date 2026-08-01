@@ -22,6 +22,19 @@ This repository documents my journey of learning Git and GitHub through hands-on
 - Version Control
 - Markdown
 
+## 📚 Learning Progress
+
+- ✅ Introduction to GitHub
+- ✅ Markdown
+- ✅ Git Commands
+- ✅ Git Workflow
+- ⬜ Branching
+- ⬜ Merge Conflicts
+- ⬜ Pull Requests
+- ⬜ GitHub Pages
+
+I'm continuously improving my Git and GitHub skills by completing projects and hands-on practice.
+
 ## 🎯 Goal
 
 To build a strong foundation in Git and GitHub while creating a professional portfolio.

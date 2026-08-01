@@ -1,9 +1,13 @@
 # Screenshots
 
-This folder contains screenshots related to my Git and GitHub learning journey.
+This folder contains screenshots from my Git & GitHub learning journey.
 
-Examples:
-- Repository homepage
-- Commit history
-- Branch creation
-- Pull request
+## Repository Homepage
+
+![Repository Homepage](repository-homepage.png)
+
+---
+
+## Commit History
+
+![Commit History](commit-history.png)

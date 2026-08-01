@@ -33,6 +33,12 @@ This repository documents my journey of learning Git and GitHub through hands-on
 - ✅ GitHub Pages
 - ⬜ GitHub Actions
 
+## 🌐 Live Demo
+
+Visit the project website:
+
+https://tanvishinde2312-ux.github.io/git-github-practice/
+
 ## 🎯 Goal
 
 To build a strong foundation in Git and GitHub while creating a professional portfolio.

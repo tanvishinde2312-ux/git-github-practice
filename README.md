@@ -22,7 +22,7 @@ This repository documents my journey of learning Git and GitHub through hands-on
 - Version Control
 - Markdown
 
-## 📚 Learning Progress
+## 📚 Topics Covered
 
 - ✅ Introduction to GitHub
 - ✅ Markdown
@@ -31,13 +31,17 @@ This repository documents my journey of learning Git and GitHub through hands-on
 - ✅ Branching
 - ✅ Pull Requests
 - ✅ GitHub Pages
-- ⬜ GitHub Actions
+- ✅ GitHub Actions
 
 ## 🌐 Live Demo
 
 Visit the project website:
 
 https://tanvishinde2312-ux.github.io/git-github-practice/
+
+## ⚙️ GitHub Actions
+
+This repository includes a basic GitHub Actions workflow that runs automatically whenever changes are pushed to the `main` branch.
 
 ## 🎯 Goal
 

@@ -30,11 +30,8 @@ This repository documents my journey of learning Git and GitHub through hands-on
 - ✅ Git Workflow
 - ✅ Branching
 - ✅ Pull Requests
-- ⬜ Merge Conflicts
-- ⬜ GitHub Pages
+- ✅ GitHub Pages
 - ⬜ GitHub Actions
-
-I'm continuously improving my Git and GitHub skills by completing projects and hands-on practice.
 
 ## 🎯 Goal
 
